@@ -44,5 +44,4 @@ Dijkstra's algorithm is employed in this project to calculate the shortest path 
 -Rakesh
 
 #here is the project link
-[project Link]([http://127.0.0.1:5500/graph.html](https://rahul-sharma2003.github.io/Shortest_Distance/))
-](https://rahul-sharma2003.github.io/Shortest_Distance/)https://rahul-sharma2003.github.io/Shortest_Distance/](https://rahul-sharma2003.github.io/Shortest_Distance/)https://rahul-sharma2003.github.io/Shortest_Distance/
+[project Link](https://rahul-sharma2003.github.io/Shortest_Distance/)
